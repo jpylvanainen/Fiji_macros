@@ -1,6 +1,6 @@
 # Fiji macros
 
-A small collection of useful scripts for Fiji (ImageJ).
+A small collection of useful macro for Fiji (ImageJ).
 
 #### SLD to Tif Exporter
 **[`SLD_image_exporter.ijm`](SLD%20image%20exporter.ijm)**: Batch exports and converts Slidebook (.sld) files to .tif. Requires the Slidebook update site.
