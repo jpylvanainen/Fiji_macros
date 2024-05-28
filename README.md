@@ -7,5 +7,5 @@ A small collection of useful macro for Fiji (ImageJ).
 #### ImageJ Macro for Counting ROIs per Frame
 **[`Count_ROI_per_Slice.ijm`](Count_ROI_per_Slice.ijm)**: Counts ROIs per frame in an image stack with one channel and multiple slices. Outputs ROI counts and differences to the console.
 
-## Run "Measure" for All Slices
+#### Run "Measure" for All Slices
 **[`Measure_all_slices.ijm`](Measure%all%slices.ijm)**:  Run "Measure" for all slices in a stack.
