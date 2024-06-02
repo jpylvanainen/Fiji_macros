@@ -9,3 +9,7 @@ A small collection of useful macro for Fiji (ImageJ).
 
 #### Run "Measure" for All Slices
 **[`Measure_all_slices.ijm`](Measure%all%slices.ijm)**:  Run "Measure" for all slices in a stack.
+
+#### Batch Processing Script
+**[`Batch_processing.ijm`](Batch_processing.ijm)**: Batch processing macro empty backbone. Just add your own code to process folders.
+
