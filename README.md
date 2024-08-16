@@ -16,3 +16,7 @@ A small collection of useful macro for Fiji (ImageJ).
 #### Batch Processing Script
 **[`Batch_processing.ijm`](Batch_processing.ijm)**: Batch processing macro empty backbone. Just add your own code to process folders.
 
+#### BitDepth checker Script
+**[`bitDepth_checker.ijm`](bitDepth_checker.ijm)**: Prints the bit-depth of each image in a folder.
+
+
